@@ -1,0 +1,19 @@
+# flyctl launch added from .idea/.gitignore
+# Default ignored files
+.idea/shelf
+.idea/workspace.xml
+# Editor-based HTTP Client requests
+.idea/httpRequests
+
+# flyctl launch added from my-portfolio/.gitignore
+my-portfolio/**/.DS_Store
+my-portfolio/**/node_modules
+my-portfolio/build
+my-portfolio/.svelte-kit
+my-portfolio/package
+my-portfolio/**/.env
+my-portfolio/**/.env.*
+!my-portfolio/**/.env.example
+my-portfolio/**/vite.config.js.timestamp-*
+my-portfolio/**/vite.config.ts.timestamp-*
+fly.toml
